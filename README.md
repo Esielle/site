@@ -10,7 +10,7 @@
         padding: 0;
         list-style-type: none;
         border-radius: 15px 15px;
-        width: 700px;
+        width: 1300px;
         text-align: center;
         background-color: #4C002F;
       }
@@ -34,17 +34,13 @@
   
     <ul id="navbar">
       <li><a href="#">Главная</a></li>
-<li> </li>
       <li><a href="#">Новости</a></li>
-<li> </li>
-  <li><a href="#">Контакты</a></li>
-<li> </li>
+      <li><a href="#">Контакты</a></li>
       <li><a href="#">О нас</a></li>
     </ul>
  
   </body>
 </html>
-
 
 
 
