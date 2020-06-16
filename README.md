@@ -9,7 +9,7 @@
 }
 #navbar li {
   display: inline-block;
-  width: 24%;
+  width: 25%;
   text-align: center;
 }
 #navbar a {
