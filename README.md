@@ -9,7 +9,7 @@
 }
 #navbar li {
   display: inline-block;
-  width: 23%; /* 4 пункта меню, то есть 100%/4 */
+  width: 24%;
   text-align: center;
 }
 #navbar a {
