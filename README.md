@@ -28,13 +28,14 @@
 </style>
   </head>
   <body>
-        background-color: #8CCFC0;
 <ul id="navbar">
   <li><a href="#1">Лето</a></li>
   <li><a href="#2">Осень</a></li>
   <li><a href="#3">Зима</a></li>
   <li><a href="#4">  Весна</a></li>
 </ul>
+
+ p {background-color: #8CCFC0;}
 
 <h1><font color="#42A38D">Приветствую!</font></h1>
 Если вы заглянули на мой блог, то я уверена, что вы не знаете, чем себя занять во время выходных!
