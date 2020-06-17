@@ -18,7 +18,7 @@
 }
 #navbar a {
   display: block;
-  padding: 7px;
+  padding: 5px;
   color: white;
   text-decoration: none;
 }
