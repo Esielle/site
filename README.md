@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>сайт</title>
 <style>
 #navbar, #navbar li {
   margin: 10;
@@ -21,7 +26,9 @@
   background: #15856B;
 }
 </style>
-
+  </head>
+ 
+  <body>
 <ul id="navbar">
   <li><a href="#1">Лето</a>
   <li><a href="#2">Осень</a>
@@ -34,4 +41,5 @@
 
 
 
-
+  </body>
+</html>
