@@ -28,7 +28,6 @@
 </style>
   </head>
   <body>
-      {background-color: #8CCFC0;}
 <ul id="navbar">
   <li><a href="#1">Лето</a></li>
   <li><a href="#2">Осень</a></li>
