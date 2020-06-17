@@ -5,7 +5,7 @@
   padding: 0;
 }
 #navbar {
-  background: #4C002F;
+  background: #15788A;
 }
 #navbar li {
   display: inline-block;
@@ -19,7 +19,7 @@
   text-decoration: none;
 }
 #navbar a:hover {
-  background: #8A2D51;
+  background: #15856B;
 }
 </style>
 
