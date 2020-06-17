@@ -13,7 +13,7 @@
 }
 #navbar li {
   display: inline-block;
-  width: 25%;
+  width: 24%;
   text-align: center;
 }
 #navbar a {
