@@ -30,10 +30,10 @@
  
   <body>
 <ul id="navbar">
-  <li><a href="#1">Лето</a>
-  <li><a href="#2">Осень</a>
-  <li><a href="#3">Зима</a>
-  <li><a href="#4">Весна</a>
+  <li><a href="#1">Лето</a></li>
+  <li><a href="#2">Осень</a></li>
+  <li><a href="#3">Зима</a></li>
+  <li><a href="#4">Весна</a></li>
 
   </body>
 
