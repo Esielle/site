@@ -13,12 +13,12 @@
 }
 #navbar li {
   display: inline-block;
-  width: 24%;
+  width: 25%;
   text-align: center;
 }
 #navbar a {
   display: block;
-  padding: 7px;
+  padding: 6px;
   color: white;
   text-decoration: none;
 }
