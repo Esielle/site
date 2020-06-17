@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>сайт</title>
-    background-color: #8CCFC0;
 <style>
 #navbar, #navbar li {
   margin: 10;
@@ -28,8 +27,8 @@
 }
 </style>
   </head>
- 
   <body>
+        background-color: #8CCFC0;
 <ul id="navbar">
   <li><a href="#1">Лето</a></li>
   <li><a href="#2">Осень</a></li>
